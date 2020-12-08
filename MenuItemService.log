@@ -1,0 +1,85 @@
+INFO  06:55:00 Application started. Press Ctrl+C to shut down.
+INFO  06:55:00 Hosting environment: Development
+INFO  06:55:00 Content root path: C:\Users\deepa\Desktop\Truyum\TruyumMenuItemService
+INFO  07:06:21 Http Get request Initiated
+INFO  07:06:21 successfully got details
+INFO  07:06:36 Http Get request Initiated
+INFO  07:06:36 successfully got details
+INFO  07:06:38 Http Get request Initiated
+INFO  07:06:38 successfully got details
+INFO  07:07:22 HttpPost Request Initiated for Id 3
+INFO  07:07:22 Model state is  valid for Id 3
+INFO  07:07:22 Http Get request Initiated
+INFO  07:07:22 successfully got details
+INFO  07:07:32 Http Get request Initiated
+INFO  07:07:32 successfully got details
+INFO  07:07:33 Http Get request Initiated
+INFO  07:07:33 successfully got details
+INFO  07:07:34 Http Get request Initiated
+INFO  07:07:34 successfully got details
+INFO  07:07:34 Http Get request Initiated
+INFO  07:07:34 successfully got details
+INFO  07:07:35 Http Get request Initiated
+INFO  07:07:35 successfully got details
+INFO  07:07:35 Http Get request Initiated
+INFO  07:07:35 successfully got details
+INFO  07:13:02 Http Get request Initiated
+INFO  07:13:02 successfully got details
+INFO  07:44:28 Application started. Press Ctrl+C to shut down.
+INFO  07:44:28 Hosting environment: Development
+INFO  07:44:28 Content root path: C:\Users\deepa\Desktop\Truyum\TruyumMenuItemService
+INFO  07:44:42 Http Get request Initiated
+INFO  07:44:42 successfully got details
+INFO  07:44:54 Http get request initiated with 1
+INFO  07:44:54 Found Matching menu item
+INFO  07:51:49 Application started. Press Ctrl+C to shut down.
+INFO  07:51:49 Hosting environment: Development
+INFO  07:51:49 Content root path: C:\Users\deepa\Desktop\Truyum\TruyumMenuItemService
+INFO  07:52:06 Http Get request Initiated
+INFO  07:52:06 successfully got details
+INFO  08:02:38 Http Get request Initiated
+INFO  08:02:38 successfully got details
+INFO  08:52:27 Application started. Press Ctrl+C to shut down.
+INFO  08:52:27 Hosting environment: Development
+INFO  08:52:27 Content root path: C:\Users\deepa\Desktop\Truyum\TruyumMenuItemService
+INFO  08:52:36 Http Get request Initiated
+INFO  08:52:36 successfully got details
+INFO  08:52:39 Http Get request Initiated
+INFO  08:52:39 successfully got details
+INFO  08:52:40 Http Get request Initiated
+INFO  08:52:40 successfully got details
+INFO  08:53:04 HttpPost Request Initiated for Id 0
+INFO  08:53:04 Model state is  valid for Id 0
+INFO  08:53:05 Http Get request Initiated
+INFO  08:53:05 successfully got details
+INFO  08:54:13 Application started. Press Ctrl+C to shut down.
+INFO  08:54:13 Hosting environment: Development
+INFO  08:54:13 Content root path: C:\Users\deepa\Desktop\Truyum\TruyumMenuItemService
+INFO  08:54:32 Http Get request Initiated
+INFO  08:54:32 successfully got details
+INFO  08:54:53 Http Get request Initiated
+INFO  08:54:53 successfully got details
+INFO  08:54:55 Http Get request Initiated
+INFO  08:54:55 successfully got details
+INFO  08:54:56 Http Get request Initiated
+INFO  08:54:56 successfully got details
+INFO  08:56:27 Http Get request Initiated
+INFO  08:56:27 successfully got details
+INFO  08:56:29 Http Get request Initiated
+INFO  08:56:29 successfully got details
+INFO  08:56:30 Http Get request Initiated
+INFO  08:56:30 successfully got details
+INFO  09:01:15 Http Get request Initiated
+INFO  09:01:15 successfully got details
+INFO  09:01:17 Http Get request Initiated
+INFO  09:01:17 successfully got details
+INFO  09:01:19 Http Get request Initiated
+INFO  09:01:19 successfully got details
+INFO  09:10:49 Http Get request Initiated
+INFO  09:10:49 successfully got details
+INFO  09:10:51 Http Get request Initiated
+INFO  09:10:51 successfully got details
+INFO  09:10:52 Http Get request Initiated
+INFO  09:10:52 successfully got details
+INFO  09:10:53 Http Get request Initiated
+INFO  09:10:53 successfully got details
